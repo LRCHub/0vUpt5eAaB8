@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "base_track": "ため息とプロポーズ",
+  "base_artist": "楓遥登",
+  "createdAt": "2026-02-24T10:24:47.492244Z",
+  "candidates": [
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "ため息とプロポーズ",
+      "artist": "楓遥登",
+      "has_synced": false,
+      "path": "select/pl_01_ため息とプロポーズ_楓遥登.txt"
+    }
+  ]
+}
